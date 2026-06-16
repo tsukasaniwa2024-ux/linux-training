@@ -7,3 +7,8 @@ build/
 *.d
 calculator
 myapp
+build_debug/
+build_release/
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
